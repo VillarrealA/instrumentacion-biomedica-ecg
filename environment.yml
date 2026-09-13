@@ -1,0 +1,9 @@
+name: ecg-instrumentacion
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - wfdb

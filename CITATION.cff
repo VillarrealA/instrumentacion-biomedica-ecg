@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Si utiliza este material docente, cite este repositorio."
+title: "Instrumentación Biomédica — práctica ECG"
+type: software
+authors:
+  - family-names: "Villarreal López"
+    given-names: "Alejandro"
+year: 2026

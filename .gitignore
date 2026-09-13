@@ -1,0 +1,25 @@
+# Datos fisiológicos crudos
+data/*
+!data/README.md
+
+# BIOPAC y archivos binarios comunes
+*.acq
+
+# Archivos locales de adquisición
+*.cmbl
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
