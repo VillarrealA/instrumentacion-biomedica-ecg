@@ -16,6 +16,7 @@ El programa está configurado inicialmente para trabajar con el registro:
 
 ```text
 16265
+```
 
 ## Actividad
 
